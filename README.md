@@ -1,7 +1,7 @@
 # ¡Hola! 👋, Yo soy Jhonatan
 ### Software Developer
 
-Soy ingeniero de sistemas, amante del deporte y del buen cine. Actualmente, me dedico a la creación de soluciones para la web con el Stack: **ReactJS**, **Node.js**, **NestJS**, **Django (DRF)**, **MongoDB**, **PostgreSQL**.
+Soy ingeniero de sistemas, amante del deporte y del buen cine. Actualmente, me dedico a la creación de soluciones para la web con el Stack: **ReactJS**, **Node.js**, **Express**, **NestJS**, **Django (DRF)**, **MongoDB**, **PostgreSQL**.
 
 Si quieres contactar conmigo me puedes ubicar en los siguientes links:
 
